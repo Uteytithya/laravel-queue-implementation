@@ -3,6 +3,9 @@
 For full implementation history, baseline-vs-current diff, and architecture notes, see:
 `docs/IMPLEMENTATION_PROGRESS.md`
 
+For chronological change history, see:
+`CHANGELOG.md`
+
 This project is configured to run Laravel 10 with:
 
 - `nginx` for HTTP serving
